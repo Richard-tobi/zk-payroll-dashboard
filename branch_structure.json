@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/issue-737-create-dashboard-fallback-funding-source",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/issue-737-create-dashboard-fallback-funding-source": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/issue-737-create-dashboard-fallback-funding-source",
+    "origin"
+  ]
+}
